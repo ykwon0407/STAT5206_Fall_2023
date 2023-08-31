@@ -2,36 +2,15 @@
 
 STAT5206 - Fall 2023
 
-## Learning outcomes
-This course is designed for beginners who do NOT have any experience in Python programming. We will cover following topics:
-- Basic concepts for Python programming
-  - Data types, Functions, Control flow (loop/if-else)
-- Data acquistion
-  - Data collection using API and SQL query
-- Data wrangling for statistical analysis
-  - from hierarchical structured data to tabular data
-- Data visualization
-  - scatterplot, histogram, boxplot, ...
-- Basic statistical analysis
-  - linear model, simple optimization
+## Teaching Team
+Yongchan Kwon (yk3012 (at) columbia (dot) edu)
+  - Office Hours: By appointment. 
 
-### Prerequisites
-- An introductory statistics class
-  - Basic probability distributions (e.g. Gaussian, binomial distributions and their likelihoods)
-  - Basic hypothesis testing (e.g. t-test)
-  - Summary statistics
-  - Histograms, boxplots, etc
-- Multivariate calculus
-  - Derivatives and functions
-- Matrix operations and inverses of matrices
-- You should be at least co-enrolled in a modeling class like regression
+Fangyi Chen (fc2630 (at) columbia (dot) edu)
+  - Office hours: TBU
 
-### Textbooks and references
-- **Google!**
-- Basics only - [Programming with Python by Software Carpentry (PPSC)](https://swcarpentry.github.io/python-novice-inflammation/)
-- [Python concept notes (PCN)](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)
-- [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [LearningPython.org (LP)](https://www.learnpython.org/)
+## Logistics
+Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 
 ## Timeline (subject to change depending on class progress)
 
@@ -53,16 +32,37 @@ This course is designed for beginners who do NOT have any experience in Python p
 |Week 14|- Regularization |- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 15|**Final (TBU)**|||
 
+## Learning outcomes
+This course is designed for beginners who do NOT have any experience in Python programming. We will cover following topics:
+- Basic concepts for Python programming
+  - Data types, Functions, Control flow (loop/if-else)
+- Data acquistion
+  - Data collection using API and SQL query
+- Data wrangling for statistical analysis
+  - from hierarchical structured data to tabular data
+- Data visualization
+  - scatterplot, histogram, boxplot, ...
+- Basic statistical analysis
+  - linear model, simple optimization
 
-## Logistics
-Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
+## Prerequisites
+- An introductory statistics class
+  - Basic probability distributions (e.g. Gaussian, binomial distributions and their likelihoods)
+  - Basic hypothesis testing (e.g. t-test)
+  - Summary statistics
+  - Histograms, boxplots, etc
+- Multivariate calculus
+  - Derivatives and functions
+- Matrix operations and inverses of matrices
+- You should be at least co-enrolled in a modeling class like regression
 
-### Teaching Team
-Yongchan Kwon (yk3012 (at) columbia (dot) edu)
-  - Office Hours: By appointment. 
-
-Fangyi Chen (fc2630 (at) columbia (dot) edu)
-  - Office hours: TBU
+### References
+- **Google!**
+- Basics only - [Programming with Python by Software Carpentry (PPSC)](https://swcarpentry.github.io/python-novice-inflammation/)
+- [Python concept notes (PCN)](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)
+- [Python Data Science Handbook (PDSH)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [LearningPython.org (LP)](https://www.learnpython.org/)
+- Data, Models, and Decisions: The Fundamentals of Management Science
 
 ### Grading
 
