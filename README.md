@@ -7,7 +7,7 @@ Yongchan Kwon (yk3012 (at) columbia (dot) edu)
   - Office Hours: By appointment. 
 
 Fangyi Chen (fc2630 (at) columbia (dot) edu)
-  - Office hours: TBU
+  - Office hours: Every Friday 3 pm - 4 pm
 
 ## Logistics
 Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
