@@ -18,7 +18,7 @@ Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 |---|---|---|---|
 |Week 1|- Introduction <br>- Python 101-1 (Variable) |- [PCN Chapter 1-10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
 |Week 2|- Python 101-2 (Function, Package, Loop, if/else, File I/O) <br>- N-gram|- [PCN Chapter 1-10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) ||
-|Week 3|- Numpy <br>- OLS  |- [PCN Chapter 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW1 |
+|Week 3|- Numpy <br>- OLS  |- [PCN Chapter 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW1 (Due Sep 24th 11:59 PM) |
 |Week 4|- AB testing <br>- Pandas 1 (DataFrame) |- [PCN Chapter 12, 14](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW2 |
 |Week 5|- Pandas 2 (Grouping, Merge, Timestamp) <br>- COVID-19 |- [PCN Chapter 12, 15](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) ||
 |Week 6|- Visualization (matplotlib, seaborn) <br>- Review |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 |
