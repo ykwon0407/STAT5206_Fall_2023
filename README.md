@@ -18,13 +18,13 @@ Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 |---|---|---|---|
 |Week 1|- Introduction <br>- Python 101-1 (Variable) |- [PCN Chapter 1-10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PPSC Chapter 1, 2](https://swcarpentry.github.io/python-novice-inflammation/) <br>- [PDSH Chapter 2](https://jakevdp.github.io/PythonDataScienceHandbook/)||
 |Week 2|- Python 101-2 (Function, Package, Loop, if/else, File I/O) <br>- N-gram|- [PCN Chapter 1-10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) ||
-|Week 3|- Numpy <br>- OLS  |- [PCN Chapter 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW1 (Due Sep 24th 11:59 PM) |
-|Week 4|- AB testing <br>- Pandas 1 (DataFrame) |- [PCN Chapter 12, 14](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW2 |
-|Week 5|- Pandas 2 (Grouping, Merge, Timestamp) <br>- COVID-19 |- [PCN Chapter 12, 15](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) ||
-|Week 6|- Visualization (matplotlib, seaborn) <br>- Review |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 |
-|Week 7|**Midterm (TBU)**  |||
-|Week 8|- Midterm review <br>- NYTimes <br>- Data formats <br>- Regular expression 1 |||
-|Week 9|- Regular expression 2 <br>- Twitter |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 3|- Numpy   |- [PCN Chapter 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW1 (Due Sep 27th 11:59 PM) |
+|Week 4|- N-gram <br>- OLS | | |
+|Week 5|- Pandas (DataFrame, Grouping, Merge, Timestamp) <br>- AB testing <br>- COVID-19 |- [PCN Chapter 12, 14, 15](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) |- HW2|
+|Week 6|- Visualization (matplotlib, seaborn) <br>- Regular expression 1 |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 |
+|Week 7|- Regular expression 2 <br>- NYTimes <br>- Review |||
+|Week 8|**Midterm (Oct. 27th at 6:10 PM - 8:40 PM)** |||
+|Week 9|- Midterm review <br>- Data formats <br>- Twitter |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 10|- Interacting with APIs <br>- NYC311|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 |
 |Week 11|- SQL <br>- Internet speed |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 12|**University Holiday NO CLASS**|||
