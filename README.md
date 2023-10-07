@@ -20,11 +20,11 @@ Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 |Week 2|- Python 101-2 (Function, Package, Loop, if/else, File I/O) <br>- N-gram|- [PCN Chapter 1-10](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) ||
 |Week 3|- Numpy   |- [PCN Chapter 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW1 (Due Sep 27th 11:59 PM) |
 |Week 4|- N-gram <br>- OLS | | |
-|Week 5|- Pandas (DataFrame, Grouping, Merge, Timestamp) <br>- AB testing <br>- COVID-19 |- [PCN Chapter 12, 14, 15](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) |- HW2|
-|Week 6|- Visualization (matplotlib, seaborn) <br>- Regular expression 1 |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 |
-|Week 7|- Regular expression 2 <br>- NYTimes <br>- Review |||
+|Week 5|- Pandas (DataFrame, Grouping, Merge, Timestamp) |- [PCN Chapter 12, 14, 15](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) |- HW2 (Due Oct 11th 11:59 PM)|
+|Week 6|- COVID-19 <br>- AB testing <br>- Visualization (matplotlib, seaborn)|- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 7|- Regular expression <br>- NYTimes <br>- Review|- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3|
 |Week 8|**Midterm (Oct. 27th at 6:10 PM - 8:40 PM)** |||
-|Week 9|- Midterm review <br>- Data formats <br>- Twitter |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 9|- Midterm review <br>- Data formats <br>- Twitter |||
 |Week 10|- Interacting with APIs <br>- NYC311|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 |
 |Week 11|- SQL <br>- Internet speed |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 12|**University Holiday NO CLASS**|||
