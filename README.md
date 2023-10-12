@@ -22,9 +22,9 @@ Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 |Week 4|- N-gram <br>- OLS | | |
 |Week 5|- Pandas (DataFrame, Grouping, Merge, Timestamp) |- [PCN Chapter 12](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) |- HW2 (Due Oct 13th 11:59 PM)|
 |Week 6|- COVID-19 <br>- Visualization (matplotlib, seaborn) <br>- (AB testing) |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|Week 7|- Requests <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3|
+|Week 7|- Requests <br>- Twitter <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3|
 |Week 8|**Midterm (Oct. 27th at 6:10 PM - 8:40 PM)** |||
-|Week 9|- Midterm review <br>- Twitter |||
+|Week 9|- Midterm review |||
 |Week 10|- regular expression <br>- NYC311|- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 |
 |Week 11|- SQL <br>- Internet speed |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
 |Week 12|**University Holiday NO CLASS**|||
