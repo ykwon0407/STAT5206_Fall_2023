@@ -12,7 +12,7 @@ Fangyi Chen (fc2630 (at) columbia (dot) edu)
 ## Logistics
 Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 
-## Timeline (Last update Oct 12th)
+## Timeline (Last update Oct 13th)
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
@@ -21,8 +21,8 @@ Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 |Week 3|- Numpy   |- [PCN Chapter 11](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW1 (Due Sep 27th 11:59 PM) |
 |Week 4|- N-gram <br>- OLS | | |
 |Week 5|- Pandas (DataFrame, Grouping, Merge, Timestamp) |- [PCN Chapter 12](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) |- HW2 (Due Oct 13th 11:59 PM)|
-|Week 6|- COVID-19 <br>- Visualization (matplotlib, seaborn) <br>- (AB testing) |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|Week 7|- Requests <br>- Twitter <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3|
+|Week 6|- COVID-19 <br>- (AB testing) |- [PCN Chapter 16](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 7|- Visualization (matplotlib, seaborn) <br>- Requests <br>- (Twitter) <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 (Due Oct 22nd 7:00 PM)|
 |Week 8|**Midterm (Oct. 27th at 6:10 PM - 8:40 PM)** |||
 |Week 9|- Midterm review |||
 |Week 10|- regular expression <br>- NYC311|- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 |
