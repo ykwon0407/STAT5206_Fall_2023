@@ -12,7 +12,7 @@ Fangyi Chen (fc2630 (at) columbia (dot) edu)
 ## Logistics
 Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 
-## Timeline (Last update Oct 13th)
+## Timeline (Last update Nov 13th)
 
 |Date|Topic|Reference|Due|
 |---|---|---|---|
@@ -25,12 +25,11 @@ Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 |Week 7|- Visualization (matplotlib, seaborn) <br>- Requests <br>- (Twitter) <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 (Due Oct 22nd 7:00 PM)|
 |Week 8|**Midterm (Oct. 27th at 6:10 PM - 8:40 PM)** |||
 |Week 9|- Midterm review |||
-|Week 10|- regular expression <br>- NYC311|- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 |
-|Week 11|- SQL <br>- Internet speed |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
+|Week 10|- regular expression <br>- (NYC311)|- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)| |
+|Week 11|- SQL <br>- (Internet speed) |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 (Due Nov 19th 11:59 PM)|
 |Week 12|**University Holiday NO CLASS**|||
-|Week 13|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)|- HW 5 |
-|Week 14|- Regularization |- [PCN Chapter 19](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)||
-|Week 15|**Final (TBU)**|||
+|Week 13|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)|- HW 5 (Due Dec 4th 4:00 PM)|
+|Week 14|**Final (TBU)** |||
 
 ## Learning outcomes
 This course is designed for beginners who do NOT have any experience in Python programming. We will cover following topics:
@@ -66,14 +65,14 @@ This course is designed for beginners who do NOT have any experience in Python p
 
 ### Grading
 
-#### - Homeworks (25%)
+#### - Homeworks (40%)
 - Late homeworks will receive 0 credit
 - No make-up homeworks will be granted even if you registered late to the class
 - Please read these important things related to [submitting homeworks on Ed](https://leewtai.github.io/courses/stat_computing/ed_hw_faq.html)
 
-#### - Exams (75%)
-- Midterms (30%)
-- Final (45%)
+#### - Exams (60%)
+<!-- - Midterms (30%) -->
+- Final (60%)
 
 ##### Exam accomodations
 In order to receive disability-related academic accommodations for this course, students must first be registered with their school Disability Services (DS) office. Detailed information is available online for both the [Columbia](https://health.columbia.edu/content/disability-services) and Barnard registration processes.
