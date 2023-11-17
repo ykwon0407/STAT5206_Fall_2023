@@ -25,7 +25,7 @@ Class time: F 10:10am-12:40pm, Location: 207 Mathematics Building
 |Week 7|- Visualization (matplotlib, seaborn) <br>- Requests <br>- (Twitter) <br>- (NYTimes) <br>- Review|- [PCN Chapter 17](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW3 (Due Oct 22nd 7:00 PM)|
 |Week 8|**Midterm (Oct. 27th at 6:10 PM - 8:40 PM)** |||
 |Week 9|- Midterm review |||
-|Week 10|- regular expression <br>- (NYC311)|- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)| |
+|Week 10|- regular expression |- [PCN Chapter 13](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)| |
 |Week 11|- SQL <br>- (Internet speed) |- [PCN Chapter 20](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html)|- HW 4 (Due Nov 19th 11:59 PM)|
 |Week 12|**University Holiday NO CLASS**|||
 |Week 13|- Linear Model (Feature Engineering, Data Splitting, Cross-validation) <br>- Medical Insurance|- [PCN Chapter 18](https://leewtai.github.io/courses/stat_computing/lectures/learning_python_intro.html) <br>- [PDSH Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/)|- HW 5 (Due Dec 4th 4:00 PM)|
